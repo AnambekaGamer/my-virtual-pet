@@ -1,2 +1,2 @@
-# my-virtual-pet
-game
+# pro-35
+virtual pet-1
